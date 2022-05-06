@@ -1,0 +1,1 @@
+# kraken-desktop-releases
